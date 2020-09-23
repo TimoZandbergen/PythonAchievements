@@ -1,6 +1,6 @@
 name = "name: Timo Zandbergen"
 power = "power: super strong"
-speed = 120.5
+speed = 120
 favoriteweapon = "favorite weapon: rocket launcher"
 ammo = "ammo: 12 rockets"
 livesleft = "lives left: 3"
